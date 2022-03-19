@@ -6,6 +6,7 @@
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
 [![scraper](https://img.shields.io/github/workflow/status/elliotwutingfeng/ipsniper-info-malicious/scraper?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/ipsniper-info-malicious/actions/workflows/scraper.yml)
+<img src="https://img.shields.io/tokei/lines/github/elliotwutingfeng/ipsniper-info-malicious?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
 
 Machine-readable `.txt` blocklist of malicious URLs from ipsniper.info, updated once a day.
 
