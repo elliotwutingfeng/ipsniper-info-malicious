@@ -6,4 +6,4 @@ cchardet==2.1.7
 lxml==4.9.1
 mypy==0.961
 mypy-extensions==0.4.3
-pylint==2.14.4
+pylint==2.14.5
