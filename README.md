@@ -15,11 +15,15 @@ The URLs in this blocklist are compiled by **ipsniper.info**
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with ipsniper.info_
 
 ## Blocklist download
-You may download the blocklist [here](ipsniper-info-malicious-urls.txt?raw=1)
+
+| File | Download |
+|:-:|:-:|
+| ipsniper-info-malicious-urls.txt | [:floppy_disk:](ipsniper-info-malicious-urls.txt?raw=true) |
+| ipsniper-info-malicious-urls-ABP.txt | [:floppy_disk:](ipsniper-info-malicious-urls-ABP.txt?raw=true) |
 
 ## Requirements
 
--   Python >= 3.9.10
+-   Python >= 3.10.5
 
 ## Setup instructions
 

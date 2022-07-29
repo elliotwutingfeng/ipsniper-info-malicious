@@ -25,6 +25,10 @@ jobs:
             - name: execute py script # run scraper.py to get the latest data
               run: python scraper.py
 
+            - name: create ABP list
+              run: |
+                  sed 's/^/\|\|/;s/$/\$all/' ipsniper-info-malicious-urls.txt > ipsniper-info-malicious-urls-ABP.txt
+
             - name: commit files
               run: |
                   git config --local user.email "action@github.com"
