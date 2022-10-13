@@ -1,8 +1,5 @@
+||appleboblin.com$all
 ||customerpaypal-manage.com$all
-||nsx.21125c58.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.4331b03a.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.71e9e16a.us-central1.sddc-stg.cloudvmwareengine.google$all
+||nsx.6e965cc9.us-central1.sddc-stg.cloudvmwareengine.google$all
 ||paypal.donaciones.parroquiasanagustin.co$all
-||vcenter.4331b03a.us-central1.sddc-stg.cloudvmwareengine.google$all
-||vcenter.63affef3.us-central1.sddc-stg.cloudvmwareengine.google$all
-||vcenter.f512f10c.us-central1.sddc-stg.cloudvmwareengine.google$all
+||shopamazon.cc$all
