@@ -1,7 +1,5 @@
 ||customerpaypal-manage.com$all
-||nsx.4a1b2f8e.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.f6668e71.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.ff0b24cd.us-central1.sddc-stg.cloudvmwareengine.google$all
-||oneapples.top$all
+||google-p1.synxis.com$all
+||googleopolybook.com$all
+||ocsp2.apple.com$all
 ||paypal.donaciones.parroquiasanagustin.co$all
-||youtube300.com$all

@@ -1,7 +1,5 @@
 customerpaypal-manage.com
-nsx.4a1b2f8e.us-central1.sddc-stg.cloudvmwareengine.google
-nsx.f6668e71.us-central1.sddc-stg.cloudvmwareengine.google
-nsx.ff0b24cd.us-central1.sddc-stg.cloudvmwareengine.google
-oneapples.top
+google-p1.synxis.com
+googleopolybook.com
+ocsp2.apple.com
 paypal.donaciones.parroquiasanagustin.co
-youtube300.com
