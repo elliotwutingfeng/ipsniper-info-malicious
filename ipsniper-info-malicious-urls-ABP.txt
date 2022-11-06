@@ -1,10 +1,9 @@
-||amazon-tester.com$all
+||bigapplewalksnyc.com$all
 ||customerpaypal-manage.com$all
-||nsx.4793c4.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.5a797dbf.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.629b1d98.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.6a3e86ba.us-central1.sddc-stg.cloudvmwareengine.google$all
+||nsx.57d4053c.us-central1.sddc-stg.cloudvmwareengine.google$all
+||nsx.6d7b0605.us-central1.sddc-stg.cloudvmwareengine.google$all
+||nsx.be2ecbfd.us-central1.sddc-stg.cloudvmwareengine.google$all
 ||paypal.donaciones.parroquiasanagustin.co$all
-||vcenter.31c5387b.us-central1.sddc-stg.cloudvmwareengine.google$all
-||vcenter.4793c4.us-central1.sddc-stg.cloudvmwareengine.google$all
-||vcenter.6a3e86ba.us-central1.sddc-stg.cloudvmwareengine.google$all
+||vcenter.26c27857.us-central1.sddc-stg.cloudvmwareengine.google$all
+||vcenter.3437f078.us-central1.sddc-stg.cloudvmwareengine.google$all
+||vcenter.be2ecbfd.us-central1.sddc-stg.cloudvmwareengine.google$all
