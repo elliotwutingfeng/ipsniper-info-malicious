@@ -1,9 +1,7 @@
-bigapplewalksnyc.com
+appleacademicpress.com
 customerpaypal-manage.com
-nsx.57d4053c.us-central1.sddc-stg.cloudvmwareengine.google
-nsx.6d7b0605.us-central1.sddc-stg.cloudvmwareengine.google
-nsx.be2ecbfd.us-central1.sddc-stg.cloudvmwareengine.google
+nsx.2b7fa6c7.us-central1.sddc-stg.cloudvmwareengine.google
+nsx.93469e6.us-central1.sddc-stg.cloudvmwareengine.google
 paypal.donaciones.parroquiasanagustin.co
-vcenter.26c27857.us-central1.sddc-stg.cloudvmwareengine.google
-vcenter.3437f078.us-central1.sddc-stg.cloudvmwareengine.google
-vcenter.be2ecbfd.us-central1.sddc-stg.cloudvmwareengine.google
+vcenter.2b7fa6c7.us-central1.sddc-stg.cloudvmwareengine.google
+vcenter.93469e6.us-central1.sddc-stg.cloudvmwareengine.google
