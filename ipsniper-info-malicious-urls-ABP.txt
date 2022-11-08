@@ -1,7 +1,9 @@
-||appleacademicpress.com$all
 ||customerpaypal-manage.com$all
-||nsx.2b7fa6c7.us-central1.sddc-stg.cloudvmwareengine.google$all
-||nsx.93469e6.us-central1.sddc-stg.cloudvmwareengine.google$all
+||google-lb2-mcdn.redefine.pl$all
+||ingest-live-google.tienmedia.space$all
+||nsx.3ac1f82b.us-central1.sddc-stg.cloudvmwareengine.google$all
+||nsx.970df55e.us-central1.sddc-stg.cloudvmwareengine.google$all
+||nsx.c0726000.us-central1.sddc-stg.cloudvmwareengine.google$all
 ||paypal.donaciones.parroquiasanagustin.co$all
-||vcenter.2b7fa6c7.us-central1.sddc-stg.cloudvmwareengine.google$all
-||vcenter.93469e6.us-central1.sddc-stg.cloudvmwareengine.google$all
+||vcenter.970df55e.us-central1.sddc-stg.cloudvmwareengine.google$all
+||vcenter.c0726000.us-central1.sddc-stg.cloudvmwareengine.google$all
