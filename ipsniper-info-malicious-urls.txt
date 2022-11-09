@@ -1,9 +1,2 @@
 customerpaypal-manage.com
-google-lb2-mcdn.redefine.pl
-ingest-live-google.tienmedia.space
-nsx.3ac1f82b.us-central1.sddc-stg.cloudvmwareengine.google
-nsx.970df55e.us-central1.sddc-stg.cloudvmwareengine.google
-nsx.c0726000.us-central1.sddc-stg.cloudvmwareengine.google
 paypal.donaciones.parroquiasanagustin.co
-vcenter.970df55e.us-central1.sddc-stg.cloudvmwareengine.google
-vcenter.c0726000.us-central1.sddc-stg.cloudvmwareengine.google
