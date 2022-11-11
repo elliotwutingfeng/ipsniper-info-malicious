@@ -1,6 +1,3 @@
-||apple-seed.co.jp$all
-||appleexterminating.com$all
+||appleinsider.ru$all
 ||customerpaypal-manage.com$all
-||google-p1.synxis.com$all
 ||paypal.donaciones.parroquiasanagustin.co$all
-||www.apple-seed.co.jp$all
