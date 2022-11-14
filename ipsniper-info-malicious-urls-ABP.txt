@@ -1,7 +1,2 @@
-||appleprof.caa.com$all
 ||customerpaypal-manage.com$all
 ||paypal.donaciones.parroquiasanagustin.co$all
-||pprod.abe.applevacations.com$all
-||qa.abe.applevacations.com$all
-||twitterworks.net$all
-||www.twitterworks.net$all

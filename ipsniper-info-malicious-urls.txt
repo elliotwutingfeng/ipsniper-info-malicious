@@ -1,7 +1,2 @@
-appleprof.caa.com
 customerpaypal-manage.com
 paypal.donaciones.parroquiasanagustin.co
-pprod.abe.applevacations.com
-qa.abe.applevacations.com
-twitterworks.net
-www.twitterworks.net
