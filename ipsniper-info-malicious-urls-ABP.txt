@@ -1,3 +1,4 @@
+||amazonnutrition.com$all
 ||customerpaypal-manage.com$all
-||google-videos.nba.com$all
+||google-c2.synxis.com$all
 ||paypal.donaciones.parroquiasanagustin.co$all
