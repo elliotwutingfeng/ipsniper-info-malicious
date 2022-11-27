@@ -27,7 +27,7 @@ jobs:
 
             - name: create ABP list
               run: |
-                  sed 's/^/\|\|/;s/$/\$all/' ipsniper-info-malicious-urls.txt > ipsniper-info-malicious-urls-ABP.txt
+                  sed 's/^/\|\|/;s/$/\^\$all/' ipsniper-info-malicious-urls.txt > ipsniper-info-malicious-urls-ABP.txt
 
             - name: commit files
               run: |
