@@ -24,7 +24,7 @@ The URLs in this blocklist are compiled by **ipsniper.info**
 
 ## Requirements
 
--   Python >= 3.10.5
+-   Python >= 3.11
 
 ## Setup instructions
 
