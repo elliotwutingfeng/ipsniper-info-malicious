@@ -20,6 +20,7 @@ The URLs in this blocklist are compiled by **ipsniper.info**
 |:-:|:-:|
 | ipsniper-info-malicious-urls.txt | [:floppy_disk:](ipsniper-info-malicious-urls.txt?raw=true) |
 | ipsniper-info-malicious-urls-ABP.txt | [:floppy_disk:](ipsniper-info-malicious-urls-ABP.txt?raw=true) |
+| ipsniper-info-malicious-urls-UBO.txt | [:floppy_disk:](ipsniper-info-malicious-urls-UBO.txt?raw=true) |
 
 ## Requirements
 
