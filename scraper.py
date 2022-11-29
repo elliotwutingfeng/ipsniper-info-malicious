@@ -7,7 +7,6 @@ import re
 from datetime import datetime
 
 import aiohttp
-import cchardet  # type: ignore
 from bs4 import BeautifulSoup, SoupStrainer
 
 logger = logging.getLogger()
