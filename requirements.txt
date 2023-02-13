@@ -4,5 +4,5 @@ beautifulsoup4==4.11.2
 black==23.1.0
 lxml==4.9.2
 mypy==0.991
-mypy-extensions==0.4.4
+mypy-extensions==1.0.0
 pylint==2.16.1
