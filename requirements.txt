@@ -3,6 +3,6 @@ bandit==1.7.5
 beautifulsoup4==4.12.2
 black==23.10.0
 lxml==4.9.3
-mypy==1.6.0
+mypy==1.6.1
 mypy-extensions==1.0.0
 pylint==3.0.1
