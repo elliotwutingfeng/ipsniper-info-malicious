@@ -199,11 +199,10 @@ async def extract_urls() -> set[str]:
 
 if __name__ == "__main__":
     urls: set[str] = asyncio.run(extract_urls())
-    if urls:
-        timestamp: str = current_datetime_str()
-        filename = "ipsniper-info-malicious-urls.txt"
-        with open(filename, "w") as f:
-            f.writelines("\n".join(sorted(urls)))
-            logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
-    else:
+    if not urls:
         raise ValueError("Failed to scrape URLs")
+    timestamp: str = current_datetime_str()
+    filename = "ipsniper-info-malicious-urls.txt"
+    with open(filename, "w") as f:
+        f.writelines("\n".join(sorted(urls)))
+        logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
