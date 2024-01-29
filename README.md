@@ -24,26 +24,28 @@ The URLs in this blocklist are compiled by **ipsniper.info**
 
 ## Requirements
 
--   Python >= 3.11
+- Python 3.12+
 
 ## Setup instructions
 
 `git clone` and `cd` into the project directory, then run the following
 
 ```bash
-pip3 install -r requirements.txt
+python3 -m venv venv
+venv/bin/python3 -m pip install --upgrade pip
+venv/bin/python3 -m pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-python3 scraper.py
+venv/bin/python3 scraper.py
 ```
 
 ## Libraries/Frameworks used
 
--   [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io)
--   [AIOHTTP](https://docs.aiohttp.org/en/stable)
+- [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io)
+- [AIOHTTP](https://docs.aiohttp.org/en/stable)
 
 &nbsp;
 
