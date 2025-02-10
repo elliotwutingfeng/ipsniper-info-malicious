@@ -2,7 +2,7 @@ aiohttp==3.11.12
 bandit==1.8.2
 beautifulsoup4==4.13.3
 black==24.10.0
-lxml==5.3.0
+lxml==5.3.1
 mypy==1.15.0
 mypy-extensions==1.0.0
 pylint==3.3.4
