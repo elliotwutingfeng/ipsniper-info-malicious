@@ -1,6 +1,6 @@
 aiohttp==3.11.16
 bandit==1.8.3
-beautifulsoup4==4.13.3
+beautifulsoup4==4.13.4
 black==24.10.0
 lxml==5.3.2
 mypy==1.15.0
