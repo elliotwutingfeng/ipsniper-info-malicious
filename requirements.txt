@@ -5,4 +5,4 @@ black==24.10.0
 lxml==6.0.0
 mypy==1.17.1
 mypy-extensions==1.1.0
-pylint==3.3.7
+pylint==3.3.8
