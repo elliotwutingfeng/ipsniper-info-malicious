@@ -1,5 +1,5 @@
 aiohttp==3.12.15
-bandit==1.8.6
+bandit==1.9.2
 beautifulsoup4==4.13.4
 black==25.1.0
 lxml==6.0.0
